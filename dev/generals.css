@@ -49,3 +49,25 @@ code{
 .c-black{
   color:black;
 }
+
+.bg-white{
+    background-color:white;
+  }
+  .bg-orange{
+    background-color:#ff9800;
+  }
+  .bg-blue{
+    background-color:#5e6bb3;
+  }
+  .bg-pink{
+    background-color:#f34a84;
+  }
+  .bg-red{
+    background-color:salmon;
+  }
+  .bg-cian{
+    background-color:#00a6cc;
+  }
+  .bg-black{
+    background-color:#060606;
+  }
